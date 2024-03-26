@@ -1,6 +1,5 @@
 import 'dart:math';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:yma_test/models/country.dart';
 import 'package:yma_test/theme/colors.dart';
